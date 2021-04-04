@@ -1,6 +1,6 @@
 # Crowdfunding product page
 
-![Design preview for the Crowdfunding product page coding challenge](./assets/img/desktop-preview.jpg)
+![Design preview for the Crowdfunding product page coding challenge](./src/assets/img/desktop-preview.jpg)
 
 ## Welcome! 👋
 
